@@ -726,6 +726,9 @@ textarea {
 
 
 /*Top end*/
+.videos {
+    width: 100%;
+}
 
 .videos__wrapper {
     max-width: 1440px;
